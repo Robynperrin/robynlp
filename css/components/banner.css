@@ -1,0 +1,9 @@
+
+.banner {
+	background-image: url("../../images/gw.png");
+	color: black;
+	padding: 10px 0px;
+	background-size: cover;
+	background-position: center;
+	
+}

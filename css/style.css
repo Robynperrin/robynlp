@@ -1,0 +1,60 @@
+@import url("components/container.css");
+@import url("components/art.css");
+@import url("components/boutton.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/socialnetworks.css");
+
+
+
+p{
+	font-family: 'Karla', sans-serif;
+	font-size: 20px;
+	margin: 60px;
+	font-weight: bold;
+	color: white;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
+	border-radius: 10px;
+	background-color: rgba(0,0,0,0.3);
+	padding: 15px;
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
+	background-color: #dfcdc3 ;
+	border-radius: 10px;
+	font-family: 'La Belle Aurore', sans-serif;
+	color: white;
+	padding: 6px;
+}
+h2{
+	font-family: 'La Belle Aurore', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	background-color: #c6cbef;
+	width: 400px;
+	padding: 15px;
+	border-radius: 10px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	padding: auto;
+	color: #ffffff;
+	text-align: center;
+}
+h3 {
+	font-family: 'Karla', sans-serif;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-align: center;
+	color: #58508D;
+
+
+}
+
+h4 {
+
+	font-size: 15px;
+	color: black;
+	font-family: 'Karla', sans-serif;
+}
